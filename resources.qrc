@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/QAIS">     
+    <file>resources/icon.svg</file>        
+    <file>resources/tracking.svg</file>    
+  </qresource>
+</RCC>

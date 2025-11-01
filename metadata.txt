@@ -1,0 +1,22 @@
+[general]
+name=QAIS
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+description=Intelligent AIS Vessel Tracking and Visualisation
+version=1.0.1
+author=Spatial Exploration
+email=james@spatial-exploration.com
+about=Reads, decodes and displays live AIS targets on the QGIS map layout. User can target and track indivdual vessels and export all AIS messages for further analysis. This plugin is not to be used for navigational purposes. This plugin requires an external AIS receiver to operate. These can be purchased from www.wegmatt.com/index.html. Designed and built in Western Australia by Spatial Exploration.
+
+changelog=This is the first version following beta testing.
+tags=QAIS, AIS, Vessels, Ports
+homepage=www.spatial-exploration.com
+icon=resources/icon.svg
+license=GNU General Public License v2 or later
+
+
+[experimental]
+experimental=False
+
+[deprecated]
+deprecated=False

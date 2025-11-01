@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2.8" height="4.2" viewBox="0 0 2.8 4.2">
+  <!-- Acute isosceles triangle (apex up, 4.2 high × 2.8 wide) -->
+  <path
+    d="M1.4,0 L2.8,4.2 L0,4.2 Z"
+    fill="param(fill) #000000"
+    stroke="param(outline) #000000"
+    stroke-width="param(outline-width) 0.2"
+    stroke-linejoin="miter"
+    stroke-linecap="butt"
+  />
+</svg>
+
