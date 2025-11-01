@@ -11,6 +11,8 @@ about=Reads, decodes and displays live AIS targets on the QGIS map layout. User 
 changelog=This is the first version following beta testing.
 tags=QAIS, AIS, Vessels, Ports
 homepage=www.spatial-exploration.com
+repository=https://github.com/J1SpatialExploration/QAIS
+tracker=https://github.com/J1SpatialExploration/QAIS/issues
 icon=resources/icon.svg
 license=GNU General Public License v2 or later
 
